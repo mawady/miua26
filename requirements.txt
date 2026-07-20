@@ -1,0 +1,12 @@
+torch==2.13.0
+torchvision==0.28.0
+segmentation-models-pytorch==0.5.0
+scikit-image==0.25.2
+scipy==1.15.3
+ultralytics==8.4.96
+pytorch-lightning==2.6.5
+albumentations
+ipykernel
+matplotlib
+opencv-python
+pillow
