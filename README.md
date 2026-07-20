@@ -12,13 +12,7 @@ Official implementation of the paper:
 ## Overview
 
 Short description of the proposed method.
-![Framework](docs/framework.png)
-
-## Features
-
-- Novel architecture
-- Fast inference
-- State-of-the-art performance
+![Framework](docs/framework.jpg)
 
 ## Installation
 
@@ -28,3 +22,4 @@ cd miua26
 uv venv --python 3.10
 source .venv/bin/activate
 uv pip install -r requirements.txt
+```
