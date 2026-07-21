@@ -14,6 +14,11 @@ Official implementation of the paper:
 Short description of the proposed method.
 ![Framework](docs/framework.jpg)
 
+## Datasets
+- [UDIAT (aka Breast Ultrasound Dataset B)](https://helward.mmu.ac.uk/STAFF/M.Yap/dataset.php): The dataset was originally developed by the Computer Vision and Robotics Research Group (ViCOROB) at the University of Girona.
+- [BUSI](https://doi.org/10.1016/j.dib.2019.104863)
+- [BUSBRA](https://zenodo.org/records/8231412)
+
 ## Installation
 
 ```bash
