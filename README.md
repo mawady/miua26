@@ -10,8 +10,6 @@ Official implementation of the paper:
 **Conference:** 30th Conference on Medical Image Understanding and Analysis, 20th - 22nd July 2026 (MIUA 2026)
 
 ## Overview
-
-Short description of the proposed method.
 ![Framework](docs/framework.jpg)
 
 ## Datasets
